@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+python-dotenv
+elasticsearch
+tqdm
+openai
